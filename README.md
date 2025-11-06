@@ -1,2 +1,1 @@
-# PhoneBook-Management-System
-A collaborative project for managing contacts
+# Phone Book Management System
